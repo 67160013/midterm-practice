@@ -20,3 +20,5 @@ midterm-practice/
 ├── script.js
 ├── README.md (optional)
 └── .gitignore
+
+---
