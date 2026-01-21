@@ -14,11 +14,11 @@ Calculator Web App สำหรับฝึกสอบกลางภาค
 
 ## File Structure
 
+```
 midterm-practice/
 ├── index.html
 ├── styles.css
 ├── script.js
 ├── README.md (optional)
 └── .gitignore
-
----
+```
